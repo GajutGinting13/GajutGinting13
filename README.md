@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hello Team, I'm Gajut [GaNexDev](https://www.youtube.com/@GANEXDEV) 👋
 ## About me:
 - 🔭 I’m currently working as Fullstack Developer
