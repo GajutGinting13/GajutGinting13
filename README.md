@@ -10,7 +10,7 @@
  #### 2. [SMAN 1 Lubuk Pakam](https://www.instagram.com/smkn1lupa_hits/?hl=id) | Audio Video | Lubuk Pakam `2015-2018`
 
 ## Work Experience:
-#### 1. [PT. Nusa Tirta Teknologi] | Programmer | Medan `Juny'2023 - Now`
+#### 1. [Nusa Tirta Teknologi] | Programmer | Medan `Juny'2023 - Now`
    -  Building an Integrated Hospital Information System (HIS) with BPJS and Satu Sehat integration involves creating a robust system that connects hospital management workflows with  
       government health insurance (BPJS) and the national health data platform (Satu Sehat)
 ---
